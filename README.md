@@ -1,7 +1,15 @@
 # URL Shortener - NodeJs
 <hr>
-- This is a url shortener written in nodejs.
-- Manages click history of the shortened URLs.
-- Provides for different users to sign up and use the application via statefull authentication.
+<ul>
+<li>
+This is a url shortener written in nodejs.  
+</li>
+<li>
+Manages click history of the shortened URLs.    
+</li>
+<li>
+Provides for different users to sign up and use the application via statefull authentication.  
+</li>
+</ul>
 <hr>
 <br>
